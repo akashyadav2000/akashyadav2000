@@ -1,8 +1,22 @@
-# Hi there, I'm Akash Yadav 👋
+
+# Hey 👋, I'm [Akash Yadav!](https://github.com/akashyadav2000/)
+<div align="center">
+ 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akash-yadav-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akash-yadav-url/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashvinodyadav11@gmail.com)
+
+</div>
 
 ## 🌟 MERN Stack Developer | Frontend Enthusiast | Full-Stack Learner
+## A passionate Front-end Web Developer from India
+<br>
 
-I'm a passionate Front-end Web Developer from Mumbai, with a strong foundation in building responsive, user-friendly interfaces and optimizing web application performance. I love crafting engaging user experiences, learning new technologies, and sharing my journey with others.
+- 🌱 I’m currently learning **Blockchain Technology**
+
+- 👯 I’m looking to collaborate on **Full-Stack Projects**
+
+- 📫 How to reach me **akashvinodyadav11@gmail.com**
 
 ---
 
