@@ -1,50 +1,38 @@
-# Hi there, I'm Akash Yadav 👋
+<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
+<h3 align="center">🌟 MERN Stack Developer | Frontend Enthusiast | Full-Stack Learner 🌟</h3>
 
-## 🌟 MERN Stack Developer | Frontend Enthusiast | Full-Stack Learner
+---
 
-I'm a passionate Front-end Web Developer from Mumbai, with a strong foundation in building responsive, user-friendly interfaces and optimizing web application performance. I love crafting engaging user experiences, learning new technologies, and sharing my journey with others.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Projects
-#### [🍞 Benz Bakery](https://benzbakery.vercel.app/)
-- **Tech Stack:** ReactJS, Redux-toolkit, React Router, Mongoose, ExpressJS, CSS, JavaScript
-- Built a fully responsive bakery website focused on enhancing UX, seamless navigation, and performance optimization across all devices.
-- **Performance Metrics:** Achieved a GTmetrix grade of 98%, structure score of 94%, and a load time of 226 ms.
-- [GitHub Repository](https://github.com/akashyadav2000/benzbakery-frontend)
 
-#### [🎬 Cine Genero IMDB](https://cine-genero-imdb.vercel.app/)
-- **Tech Stack:** ReactJS, CSS, JavaScript, Axios
-- A dynamic IMDB clone that fetches and displays movie data using the TMDb API with responsive design for optimal UX on all devices.
-- [GitHub Repository](https://github.com/akashyadav2000/cine-genero-imdb)
+🟢 **[🍞 Benz Bakery](https://benzbakery.vercel.app/)**  
+A fully responsive bakery website with top-notch UX and performance, optimized for all devices.  
+**Tech Stack:** ReactJS, Redux, ExpressJS, MongoDB  
+[🔗 GitHub Repo](https://github.com/akashyadav2000/benzbakery-frontend)
 
-#### [🔴 Bubble Game](https://bubble-game-green.vercel.app/)
-- **Tech Stack:** HTML, CSS, JavaScript
-- A fun, addictive bubble game built for all devices, featuring sleek design and engaging gameplay.
-- [GitHub Repository](https://github.com/akashyadav2000/bubble-game)
+🟡 **[🎬 Cine Genero IMDB](https://cine-genero-imdb.vercel.app/)**  
+IMDB clone fetching movie data dynamically from the TMDb API.  
+**Tech Stack:** ReactJS, JavaScript, CSS, Axios  
+[🔗 GitHub Repo](https://github.com/akashyadav2000/cine-genero-imdb)
 
----
-
-### 💻 Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Libraries & Frameworks:** React.js, Node.js, Redux-toolkit, React-router
-- **Database:** MongoDB
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Render
-- **Other Skills:** Web design, Cross-browser compatibility
+🔵 **[🔴 Bubble Game](https://bubble-game-green.vercel.app/)**  
+Fun, addictive bubble popping game!  
+**Tech Stack:** HTML, CSS, JavaScript  
+[🔗 GitHub Repo](https://github.com/akashyadav2000/bubble-game)
 
 ---
 
-### 🏆 Certifications
-- **ReactJS Project** (Udemy): Experienced in React.js for Building Scalable User Interfaces.
-- **MERN Stack Fundamentals** (Great Learning): Skilled in the MERN Stack for Full-Stack Development.
-- **JavaScript Programming** (Udemy): Proficient in JavaScript for Interactive Web Development.
-- **Git & GitHub** (Great Learning): Certified in Git and GitHub for Version Control.
-- **HTML & CSS** (Udemy): Expert in Building Responsive Web Pages.
-
----
-
-### 📫 How to reach me
-- **Email:** [akashvinodyadav11@gmail.com](mailto:akashvinodyadav11@gmail.com)
-- **LinkedIn:** [Akash Yadav](https://www.linkedin.com/in/akash-yadav-url)
-- **Portfolio:** [Portfolio Website](https://akash-yadav-portfolio.vercel.app/)
-- **GitHub:** [@akashyadav2000](https://github.com/akashyadav2000)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashyadav2000&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
