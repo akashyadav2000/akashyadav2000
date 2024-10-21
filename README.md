@@ -2,7 +2,7 @@
 
 ## 🌟 MERN Stack Developer | Frontend Enthusiast | Full-Stack Learner
 
-I'm a passionate MERN Stack Web Developer from Mumbai, with a strong foundation in building responsive, user-friendly interfaces and optimizing web application performance. I love crafting engaging user experiences, learning new technologies, and sharing my journey with others.
+I'm a passionate Front-end Web Developer from Mumbai, with a strong foundation in building responsive, user-friendly interfaces and optimizing web application performance. I love crafting engaging user experiences, learning new technologies, and sharing my journey with others.
 
 ---
 
