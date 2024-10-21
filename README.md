@@ -10,9 +10,9 @@
 
 ## 🌟 Frontend Enthusiast | Full-Stack Learner | MERN Stack Developer
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
+- 👯 I’m looking for a **Frontend Developer job**
 
 - 📫 How to reach me **akashvinodyadav11@gmail.com**
 
