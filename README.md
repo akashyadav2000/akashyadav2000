@@ -2,7 +2,7 @@
 
 ## 🌟 MERN Stack Developer | Frontend Enthusiast | Full-Stack Learner
 
-I'm a passionate MERN Stack Web Developer from Mumbai, with a strong foundation in building responsive, user-friendly interfaces and optimizing web application performance. I love crafting engaging user experiences, learning new technologies, and sharing my journey with others.
+I'm a passionate Front-end Web Developer from Mumbai, with a strong foundation in building responsive, user-friendly interfaces and optimizing web application performance. I love crafting engaging user experiences, learning new technologies, and sharing my journey with others.
 
 ---
 
@@ -26,20 +26,19 @@ I'm a passionate MERN Stack Web Developer from Mumbai, with a strong foundation 
 ---
 
 ### 💻 Skills
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="100" height="100"/>
-  <img src="https://img.icons8.com/officel/80/react.png" alt="React" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="100" height="100"/>
-  <img src="https://img.icons8.com/ios-glyphs/90/github.png" alt="GitHub" width="100" height="100"/>
-  <img src="https://img.icons8.com/ios-filled/100/vercel.png" alt="Vercel" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/netlify.png" alt="Netlify" width="100" height="100"/>
-  <img src="https://img.icons8.com/color/96/render.png" alt="Render" width="100" height="100"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
